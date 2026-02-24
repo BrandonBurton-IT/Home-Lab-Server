@@ -1,30 +1,29 @@
-# Home-Lab-Server
-Brandon Burton
+# Home Lab Server
 
+## About Me
 Aspiring IT professional focused on networking, virtualization, and cloud technologies.
 
-Current Project: Home Lab Server
+## Project Overview
+This home lab is being built to gain hands-on experience with:
+- Virtualization (Proxmox)
+- Windows & Linux server environments
+- Networking configuration and segmentation
+- Active Directory fundamentals
+- Troubleshooting and system administration
 
-I am building a home lab to gain hands-on experience with: Virtualization (Proxmox), Windows & Linux server environments, Networking configuration and segmentation, Active Directory fundamentals, Troubleshooting and system administration
-
-This lab is designed to simulate real-world IT environments and strengthen practical skills alongside CompTIA A+ and Network+ studies and eventually Security+
+## Purpose
+This lab simulates real-world IT environments while supporting CompTIA A+, Network+, and future Security+ studies.
 
 ## Goals
-
-Develop job-ready technical skills
-
-Document real configuration steps
-
-Build a portfolio of hands-on projects
-
-Prepare for entry-level IT and cloud roles
+- Develop job-ready technical skills
+- Document real configuration steps
+- Build a portfolio of hands-on projects
+- Prepare for entry-level IT and cloud roles
 
 ## Tech Stack (Initial Setup)
+- HP EliteDesk 800 G3
+- Netgear Switch
+- Proxmox VE
+- Windows / Linux Virtual Machines
 
-HP EliteDesk
-
-Netgear Switch
-
-Virtual Machines
-
-Windows / Linux environments
+*(This stack will evolve as the lab grows.)*
