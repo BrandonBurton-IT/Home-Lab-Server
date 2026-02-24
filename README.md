@@ -9,7 +9,7 @@ I am building a home lab to gain hands-on experience with: Virtualization (Proxm
 
 This lab is designed to simulate real-world IT environments and strengthen practical skills alongside CompTIA A+ and Network+ studies and eventually Security+
 
-Goals:
+## Goals
 
 Develop job-ready technical skills
 
@@ -19,7 +19,7 @@ Build a portfolio of hands-on projects
 
 Prepare for entry-level IT and cloud roles
 
-Tech Stack (Initial Setup. This will grow):
+## Tech Stack (Initial Setup)
 
 HP EliteDesk
 
